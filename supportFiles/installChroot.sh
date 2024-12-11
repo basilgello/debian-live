@@ -26,8 +26,18 @@ apt-get install -y \
   curl \
   dbus \
   dosfstools \
+  firmware-atheros \
+  firmware-bnx2 \
+  firmware-bnx2x \
+  firmware-brcm80211 \
+  firmware-cavium \
+  firmware-iwlwifi \
+  firmware-mediatek \
+  firmware-netronome \
+  firmware-netxen \
+  firmware-realtek \
+  firmware-zd1211 \
   firmware-linux-free \
-  firmware-linux-nonfree \
   gddrescue \
   gdisk \
   iputils-ping \
